@@ -1,0 +1,6 @@
+{
+  "name": "OutreachFlow - Cold Email & Resume Dispatcher",
+  "description": "Send personalized outreach emails with your resume and custom templates directly from your Gmail account.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
