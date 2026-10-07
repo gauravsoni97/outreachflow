@@ -26,29 +26,26 @@ import {
   sendGmailMessage,
 } from '../utils/gmail';
 
-const DEFAULT_SUBJECT = 'Senior Frontend Developer — Gaurav Soni';
+const DEFAULT_SUBJECT = 'Senior Frontend Developer | 5 Years Exp | Immediate Joiner';
 const DEFAULT_BODY = `Dear Hiring Manager,
 
-I’m Gaurav Soni, a Senior Frontend Developer with 5 years of experience in building responsive, scalable, and high-performance web applications.
+I'm Gaurav Soni, a Senior Frontend Developer with 5+ years of experience building fast, scalable, SEO-friendly web apps using React.js, Next.js, and TypeScript. I'm looking for Senior Frontend Developer opportunities at your organisation and would love to contribute to your team.
 
-My core expertise includes React.js, Next.js, JavaScript, TypeScript, Redux Toolkit, HTML5, CSS3, SCSS/SASS, Tailwind CSS, and responsive UI development. I have experience working on reusable component architectures, API integrations, SEO, and frontend performance optimization.
+Portfolio website: https://thegauravsoni.netlify.app/
+Resume: https://drive.google.com/file/d/16DgiEAYLCo2eL1-8nj7eGhCf5iPvoXbL/view
+LinkedIn: https://www.linkedin.com/in/gauravsoni97
+GitHub: https://github.com/gauravsoni97
 
-I’m currently looking for a Senior Frontend Developer / React Developer opportunity and am available to join immediately. I would be happy to discuss any suitable openings within your organization.
+I'd be happy to discuss any suitable openings. Thank you for your time!
 
-Resume: View Resume
-Portfolio: View Portfolio
-LinkedIn: View LinkedIn
-GitHub: View GitHub
-
-Thank you for your time and consideration. I look forward to hearing from you.
 
 Best regards,
 Gaurav Soni
 Senior Frontend Developer
-+91 8053340056
++91 80533 40056
 gauravsoni8414@gmail.com`;
 
-const PREVIOUS_SUBJECT = 'Application for opportunities at {{company}} — {{my_name}}';
+const PREVIOUS_SUBJECT = 'Senior Frontend Developer — Gaurav Soni';
 const PREVIOUS_BODY = `Hi Hiring Team,
 
 I’m reaching out to explore suitable opportunities at {{company}}. My background in {{skills}} and experience as a {{designation}} could be a strong fit for your team.
